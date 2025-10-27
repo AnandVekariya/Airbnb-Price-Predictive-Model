@@ -1,7 +1,9 @@
-# 🏠 Airbnb Price Prediction – CIS 512 Final Project
+# 🏠 Airbnb Price Prediction Model
 
 **Author:** Anand Vekariya
+
 **Course:** CIS 512 — Data Science
+
 **Instructor:** Prof. Sumanlata Ghosh
 
 ---
