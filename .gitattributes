@@ -1,2 +1,10 @@
 *.xlsx filter=lfs diff=lfs merge=lfs -text
 *.csv filter=lfs diff=lfs merge=lfs -text
+
+# Ignore large raw data files
+database/Raw_Final_Project_Data.csv
+database/Raw_Final_Project_Data.xlsx
+
+# Optional: also ignore other big data
+database/*.csv
+database/*.xlsx
