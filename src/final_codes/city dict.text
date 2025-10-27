@@ -1,0 +1,568 @@
+Austria:
+{
+    "Vienna": [
+        "wien", "vienna, alsergrund", "favoriten", "1020 wien", "ウィーン", 
+        "wien 1180", "wien, wien, at", "wien leopoldstadt ( 2. bezirk )", 
+        "wien 1150", "vienna josefstadt", "wien /", "wieden", "brigittenau", 
+        "innere stadt", "wien/", "vienna", "wiener", "vienne", "döbling", 
+        "2 bezirk leopoldstadt", "wien ottakring", "1200 wien", "mauerbach", 
+        "josefstadt", "wien/ wieden", "7. bezirk", "viena", "währing", 
+        "wien (vienna)", "steinbach", "vienna/wien", "wien/ottakring", 
+        "wien, mariahilf", "wien-mariahilf", "vienna/ penzing", "landstrasse", 
+        "wine", "wien 1050", "wien 15", "3. bezirk", "vienna/margareten", 
+        "wien/ alsergrund", "1180 wien", "ottakring", "neubau", "vienna 9.bezirk", 
+        "wiedeń", "vienna, center / 6th. district", "wien / innenstadt", 
+        "alsergrund", "rudolfsheim-fünfhaus", "wien/meidling/hetzendorf", 
+        "vienna/15", "wien, hietzing", "ottakring", "neubau, vienna"
+    ]
+}
+
+
+----------------------------------------------------------------------------------------------------------------------------
+Belgium:
+{
+    "Brussels": [
+        "Bruxelles", "Ville de Bruxelles", "City of Brussels", "Brussel", "Brüssel",
+        "bruxelles", "Brussels - Anderlecht", "Bruxelles centre ville", "Brussels-Centre"
+    ],
+    "Antwerp": [
+        "Antwerpen", "Antwerprn", "Antwerpen - Ekeren", "BORGERHOUT (ANTWERPEN)", "Antwerpen Borgerhout"
+    ],
+    "Ixelles": ["Elsene", "Ixelles/Elsene", "ixelles"],
+    "Schaerbeek": ["Schaarbeek", "Bruxelles Schaerbeek", "Schaaerbek"],
+    "Saint-Josse-ten-Noode": ["Sint-Joost-ten-Node", "Saint Josse Ten Noode"],
+    "Watermael-Boitsfort": ["Watermaal-Bosvoorde", "WATERMAEL BOITSFORT"],
+    "Woluwe-Saint-Lambert": ["Woluwé-Saint-Lambert"],
+    "Woluwe-Saint-Pierre": ["Sint-Pieters-Woluwe", "St-Pieters-Woluwe", "Woluwe Saint Pierre"],
+    "Anderlecht": ["Brussels (Anderlecht)", "Brussels - Anderlecht", "anderlecht"],
+    "Laeken": ["Laken","Laeken"]
+}
+
+
+
+----------------------------------------------------------------------------------------------------------------------------
+Canada:
+{
+    "Montreal": [
+        "Montréal", "Montreal", "Mont-Royal", "Plateau - Mont Royal, Montréal", "Old Montreal", 
+        "Old Montréal", "Saint-Laurent, Montreal", "Verdun, Montreal", "Dorval,montreal", 
+        "Dorval", "Lachine, Montreal", "LaSalle, Montréal", "Lachine, Montréal", 
+        "Lachine,Montreal", "Montréal ( le plateau )", "pierrefonds", "Cote-Saint-Luc",
+        "Communauté-Urbaine-de-Montréal", "Montréal-Est", "Montréal-Outremont", "Montreal-West",
+        "Outremont, Montréal, Québec", "Beaconsfield", "Pointe-Claire", "Dollard-des-Ormeaux",
+        "Hampstead", "Lachine", "Sainte-Anne-de-Bellevue", "Baie-d'Urfé", "Baie-D'Urfe",
+        "Notre Dame des Graces", "Montréal Ouest", "1050 AV. AMESBURY\nMONTREAL", "Verdun",
+        "Saint Leonard", "MONTREAL", "Montréal (Lachine)", "Montreal (Lachine)", "LaSalle",
+        "Lasalle", "Outremont", "Côte Saint-Luc", "Verdun, Montreal", "Scrborough", 
+        "Montreal-West", "蒙特利尔", "MontrÃ©al"
+    ],
+    "Quebec City": [
+        "Québec City", "Quebec City", "Ville de Québec", "Quebec", "Québec", "quebec", 
+        "Vieux Québec", "Ville de Québec, Québec, CA", "Sillery", "Lac-Beauport", 
+        "L'Ancienne-Lorette", "Beauport", "Sainte -Foy, Québec"
+    ],
+    "Toronto": [
+        "Toronto", "Downtown Toronto", "North York", "North york", "Etobicoke", 
+        "Scarborough", "Scarborough, Toronto", "North York, Toronto", "Toronto, Ontario, CA",
+        "Toronto M5S 2L6", "Toronto/North York", "toronto", "Toronto\nToronto", "Toronto,", 
+        "Toronto,ontario", "多伦多", "多倫多", "Danforth, Toronto"
+    ],
+    "Vancouver": [
+        "Vancouver", "vancouver", "Vancouver bc", "Crosstown Vancouver", 
+        "Vancouver, British Columbia, CA", "温哥华"
+    ],
+    "Ottawa": ["Ottawa"],
+    "Mississauga": ["Mississauga"],
+    "Brampton": ["Brampton"],
+    "Laval": ["Laval"],
+    "Burnaby": ["Burnaby"],
+    "Guelph": ["Guelph"],
+    "Thornhill": ["Thornhill"],
+    "Markham": ["Markham"],
+    "Vaughan": ["Vaughan"],
+    "Anjou": ["Anjou"],
+    "Kirkland": ["Kirkland"],
+    "Huntsville": ["Huntsville"],
+    "Mount Royal": ["Mount Royal", "Mt Royal"],
+    "LaSalle": ["LaSalle", "LaSalle (Montreal)"],
+    "Pierrefonds": ["Pierrefonds"],
+    "Baie-d'Urfé": ["Baie-d'Urfé", "Baie-D'Urfe"],
+    "Outremont": ["Outremont"]
+}
+
+
+
+
+
+----------------------------------------------------------------------------------------------------------------------------
+Denmark:
+{
+    "Copenhagen": [
+        "Copenhagen", "København", "Copenhagen N", "Copenhagen V", "Copenhagen K", 
+        "Copenhagen Ø", "Copenhagen S", "Copenhagen NV", "Copenhagen SV", "Copenhagen W", 
+        "Copenhagen nv", "Copenhagen s", "Copenhagen S.", "Copenhagen v", "Copenhage", 
+        "Copenhaguen", "Copenhague", "Copenhaga, Dinamarca", "Copenhage", "copenhagen",
+        "Copenhagen, Vanloese", "Copenhaga"
+    ],
+    "Frederiksberg": [
+        "Frederiksberg", "Frederiksberg C", "Frederiksberg (Copenhagen)", "Frederiksberg, Copenhagen", 
+        "Frederiksberg C.", "Frederiksberg / København", "Frederiksberg, DK", "Frederiksberg/ Copenhagen"
+    ],
+    "Valby": [
+        "Valby", "Valby, Copenhagen", "Valby Copenhagen", "Valby, København", "valby"
+    ],
+    "Nørrebro": [
+        "Nørrebro", "Nørrebro, Copenhagen", "Nørrrebro", "Copenhagen N (Nørrebro)", 
+        "København N", "København n", "København. N", "2200"
+    ],
+    "Østerbro": [
+        "Østerbro", "København Ø", "København Ø.", "Copenhagen Ø", "Oesterbro", "østerbro"
+    ],
+    "Amager": [
+        "Amager", "Amagerbro", "København S", "København s", "Kbh s", "København S.", "Copenhagen S"
+    ],
+    "Vesterbro": [
+        "Vesterbro", "København V", "København Vesterbro", "københavn v", "København v", "Kbh V",
+        "KBH V", "Copenhagen V"
+    ],
+    "Brønshøj": [
+        "Brønshøj", "Brønshøj, Copenhagen", "Bronshoj", "Brønshøj, København", "Brønshøj-Husum"
+    ],
+    "Vanløse": [
+        "Vanløse", "Vanløse, København", "Vanløse, Copenhagen", "København - Vanløse", 
+        "København, Vanløse"
+    ],
+    "Christianshavn": ["Christianshavn"],
+    "Hellerup": ["Hellerup", "Hellerup, Copenhagen"],
+    "Islands Brygge": [
+        "Islands Brygge, København", "Islands brygge, København", "Sundbyøster", 
+        "Sundbyvester", "Sydhavn"
+    ],
+    "Hvidovre": ["Hvidovre"],
+    "Rødovre": ["Rødovre"],
+    "Nordhavn": ["Nordhavn"],
+    "Søborg": ["Søborg"],
+    "Dyssegård": ["Dyssegård"],
+    "Miscellaneous": [
+        "哥本哈根", "Kopenhagen", "Köpenhamn", "Kobenhavn", "Københaven", "kbh", "Kbh N", 
+        "Kbh K", "Kbh sv", "Kbh S", "Kbh.V", "FRB", "København,", "København.", 
+        "København, DK", "2500", "2300", "1366", "2150", "2700"
+    ]
+}
+
+
+
+----------------------------------------------------------------------------------------------------------------------------
+Germany:
+
+{
+    "Berlin": [
+        "Berlin", "Berlin Neukölln", "Berlin-Mitte", "Berlin-Schöneberg", "Berlin Kreuzberg", 
+        "Berlin Friedrichshain", "Berlin-Wilmersdorf", "Berlin-Tiergarten", "Berlin-Charlottenburg", 
+        "Berlin, Berlin, DE", "Berlin, Deutschland", "Berlin / Kleinmachnow", "Berlin / Steglitz", 
+        "Berlin-Treptow", "Berlin-Wedding", "Berlin-Neukölln", "Berlin Weißensee", 
+        "Berlin, Neukölln", "Berlin, Friedrichshain", "Berlin Mitte", "Berlin, Schöneberg", 
+        "Berlin-Treptow", "Berlin-Zehlendorf", "Berlin, Neukölln"
+    ],
+    "Mitte": [
+        "Mitte", "Berlin Mitte", "Mitte/Tiergarten", "Berlin Mitte", "Mitte-Berlin"
+    ],
+    "Charlottenburg": [
+        "Charlottenburg", "Charlottenburg, Berlin", "SavignyPlatz (Charlottenburg)", 
+        "Berlin-Charlottenburg", "Berlin-Wilmersdorf", "Berlin-Charlottenburg"
+    ],
+    "Kreuzberg": [
+        "Kreuzberg", "Kreuzberg, Berlin", "Berlin Kreuzberg", "Berlin-Kreuzberg"
+    ],
+    "Prenzlauer Berg": [
+        "Prenzlauer Berg", "Berlin Prenzlauer Berg"
+    ],
+    "Schöneberg": [
+        "Schöneberg", "Berlin-Schöneberg", "Berlin, Schöneberg", "Berlin - Schöneberg", 
+        "Berlin Schöneberg", "Berlin-Wilmersdorf"
+    ],
+    "Wedding": [
+        "Berlin (Wedding)", "Berlin-Wedding"
+    ],
+    "Friedrichshain": [
+        "Friedrichshain", "Berlin Friedrichshain", "Berlin-Friedrichshain", "Berlin, Friedrichshain"
+    ],
+    "SavignyPlatz": [
+        "SavignyPlatz (Charlottenburg)"
+    ],
+    "Moabit": [
+        "Moabit"
+    ],
+    "Wannsee": [
+        "Wannsee"
+    ],
+    "Kleinmachnow": [
+        "Kleinmachnow"
+    ],
+    "Johannistahl": [
+        "Johannistahl"
+    ],
+    "Grünau": [
+        "Berlin Grünau"
+    ],
+    "Wilmersdorf": [
+        "Wilmersdorf"
+    ],
+    "Zehlendorf": [
+        "Berlin-Zehlendorf"
+    ],
+    "Rudow": [
+        "Berlin-Rudow (Neukölln)"
+    ],
+    "Treptow": [
+        "Berlin-Treptow"
+    ],
+    "Steglitz": [
+        "Berlin / Steglitz"
+    ],
+    "Neukölln": [
+        "Berlin-Neukölln", "Berlin, Neukölln", "Berlin-Wedding"
+    ],
+    "Schöneberg": [
+        "Schöneberg", "Berlin-Schöneberg", "Berlin, Schöneberg", "Berlin - Schöneberg"
+    ],
+    "Woltersdorf": [
+        "Woltersdorf"
+    ],
+    "Königs Wusterhausen": [
+        "Königs Wusterhausen"
+    ]
+}
+
+
+
+----------------------------------------------------------------------------------------------------------------------------
+Greece:
+{
+    "Athens": [
+        "Athens", "Athina", "Athens Greece", "Athens, Greece", "Athens Acropolis", "Athens, Athens",
+        "Athens, Greece, Acropolis", "Athens Athens", "Athens/Acropolis", "Athens  Acropolis", 
+        "Athens, Greece", "Athens, GR", "Athens, Αθηνα", "Athens, Athens Greece center", "Athens Neos Kosmos",
+        "Athens, Kolonaki, Lycabettus", "Athens, Panormou", "Athens, Kipseli", "Athens, Plaka", 
+        "Athens, Kolonaki", "Athens/Acropolis", "Athens center", "Athens, Exarcheia"
+    ],
+    "Kallithea": [
+        "Kallithea"
+    ],
+    "Ampelokipoi": [
+        "Ampelokipoi"
+    ],
+    "Zografou": [
+        "Zografou"
+    ],
+    "Neo Psichiko": [
+        "Neo Psichiko"
+    ],
+    "Pangrati": [
+        "Pangrati", "Pangrati, Athens", "Pangrati, Attiki", "Pangrati Athens"
+    ],
+    "Kesariani": [
+        "Kesariani"
+    ],
+    "Chalandri": [
+        "Chalandri"
+    ],
+    "Galatsi": [
+        "Galatsi"
+    ],
+    "Tavros": [
+        "Tavros"
+    ],
+    "Kentrikos Tomeas Athinon": [
+        "Kentrikos Tomeas Athinon"
+    ],
+    "Nea Smirni": [
+        "Nea Smirni"
+    ],
+    "Vironas": [
+        "Vironas"
+    ],
+    "Kolonaki": [
+        "Kolonaki", "Kolonaki, Athens"
+    ],
+    "Nea Filadelfia": [
+        "Nea Filadelfia"
+    ],
+    "Kerameikos": [
+        "Kerameikos", "Kerameikos, Athens"
+    ],
+    "Psiri": [
+        "Psiri"
+    ],
+    "Plaka": [
+        "Plaka", "Plaka, Athens", "Plaka - Athens", "Plaka Athens"
+    ],
+    "Exarcheia": [
+        "Exarcheia", "Athina, Exarheia", "Exarcheia, Athens"
+    ],
+    "Petralona": [
+        "Petralona", "Petralona, Athens", "Petralona, Athens, Greece", "Athina, Ano Petralona"
+    ],
+    "Omonoia": [
+        "Omonoia Square, Athens"
+    ],
+    "Thisseio": [
+        "Thisseio, Athens", "Thiseio Acropoli Athens", "Thisio"
+    ],
+    "Mets": [
+        "Mets"
+    ],
+    "Patisia": [
+        "Patisia"
+    ],
+    "Dafni": [
+        "Dafni"
+    ],
+    "Athens, Athens": [
+        "Athens, Athens"
+    ],
+    "Zografou": [
+        "Zografou"
+    ],
+    "Neos Kosmos": [
+        "Neos Kosmos"
+    ],
+    "Papagos": [
+        "Papagos"
+    ]
+}
+
+
+
+----------------------------------------------------------------------------------------------------------------------------
+Hong Kong:
+{
+    'Hong Kong': ['Hong Kong', 'Hong Kong, Hong Kong', 'hongkong', 'HONG KONG', 'Hongkong', 'Hong Kong Island'],
+    'Mong Kok': ['Mong Kok', 'Mongkok', 'Mongkok, HK', 'Mong Kok, HK', 'Mong Kok Hong Kong', 'Mongkok Hong Kong'],
+    'Tsim Sha Tsui': ['Tsim Sha Tsui', '尖沙咀', 'Tsim Sha Tusi', 'Tsim Sha Tsui  尖沙咀', 'Tsim Sha Tsui District', '尖沙咀 HK', '尖沙咀 ( Tsim Sha Tsui )'],
+    'Causeway Bay': ['Causeway Bay', 'Causeway Bay District', 'Causeway bay', 'Causeway Bay (1 min to MTR)', 'Causeway', 'Causeway Bay Tin Hau'],
+    'Central': ['Central', 'Central & Western District', 'Central, Hong Kong', 'Central Midlevels', 'Central Soho', 'Central Midlevel'],
+    'Sheung Wan': ['Sheung Wan', 'Sheung Wan, Hong Kong', 'Sheung Wan Central & Soho', 'Sheungwan', 'Sheung Wan, Central'],
+    'Kowloon': ['Kowloon', 'Kowloon City', 'Kowloon City District', 'Kowloon, Hong Kong', 'Kowloon, Tsim Sha Tsui', 'Kowloon, HK'],
+    'Wan Chai': ['Wan Chai', 'Wan Chai District', 'Wanchai', 'Wan Chai, Hong Kong', 'Wanchai', 'Wanchai HK'],
+    'Yau Ma Tei': ['Yau Ma Tei', 'Yau Ma Tei, Jordon, Austin', 'Yau Ma Tei, Kowloon', 'Yau Ma Tei, Hong Kong'],
+    'Tai Po': ['Tai Po', 'Tai Po district', 'Tai Po District'],
+    'Sham Shui Po': ['Sham Shui Po', 'Sham Shui Po District', 'Shamshuipo', 'Sham shui po', 'Sham Shui Po Hong Kong'],
+    'Tung Chung': ['Tung Chung', 'Tung chung'],
+    'Discovery Bay': ['Discovery Bay', 'Discovery Bay, Hong Kong', 'Discovery Bay City', 'Discovery Bay Lantau Island'],
+    'Wong Chuk Hang': ['Wong Chuk Hang'],
+    'Jordan': ['Jordan', 'Jordan, Kowloon', 'Jordan .Kowloon.', 'Jordan,Yua Ma Tei,Tsim Sha Tsui'],
+    'Sai Ying Pun': ['Sai Ying Pun', 'Sai Ying Pun -', 'Sai Ying Pun / Shek Tong Tsui', 'Sai Ying Pun Hong Kong', 'Sai Ying Pun, Hong Kong'],
+    'Happy Valley': ['Happy Valley', 'Happy Valley, Hong Kong'],
+    'North Point': ['North Point', 'North Point, Hong Kong'],
+    'Tin Shui Wai': ['Tin Shui Wai', 'TinHau', 'Tin Shui Wai'],
+    'Tseung Kwan O': ['Tseung Kwan O', 'Tseung Kwan O, Le Prime, LOHAS Park'],
+    'Sai Kung': ['Sai Kung', 'Sai Kung District', 'Sai kung'],
+    'Lantau Island': ['Lantau Island', 'Lantau Island.', 'Discovery Bay Lantau Island', 'Lantau Peak'],
+    'Shatin': ['Shatin', 'Shatin District', 'Sha Tin District'],
+    'Pokfulam': ['Pokfulam', 'Pokfulam, Hong Kong'],
+    'Kennedy Town': ['Kennedy Town', 'Kennedy Town, Hong Kong'],
+    'Ap Lei Chau': ['Ap Lei Chau', 'Ap Lei Chau, Hong Kong'],
+    'Fanling': ['Fanling', 'Fanling, New Territories'],
+    'Quarry Bay': ['Quarry Bay'],
+    'Pok Fu Lam': ['Pok Fu Lam', 'Pok Fu Lam District'],
+    'Tai O': ['Tai O'],
+    'Wong Tai Sin': ['Wong Tai Sin', 'Wong Tai Sin District'],
+    'Yung Shue Wan': ['Yung Shue Wan', 'Yung Shue Wan, Lamma Island'],
+    'Lamma Island': ['Lamma Island', 'Yung Shue Wan, Lamma Island'],
+    'Tsing Yi': ['Tsing Yi'],
+    'Ngau Tau Kok': ['Ngau Tau Kok'],
+    'Sham Shui Po': ['Sham Shui Po', 'Sham Shui Po District'],
+    'Wan Chai': ['Wan Chai', 'Wan Chai District'],
+}
+
+
+
+----------------------------------------------------------------------------------------------------------------------------
+Ireland:
+{
+    "Dublin": [
+        "Dublin", "dublin", "Dublin City", "Dublin city", "Dublin, County Dublin, IE", 
+        "Dublin, Ireland", "Dublin City Centre", "Dublin 1", "Dublin 1.", 
+        "Dublin 1, IFSC", "Dublin 2", "Dublin 3", "Dublin 4", "Dublin 5", 
+        "Dublin 6", "Dublin 6W", "Dublin 7", "Dublin 8", "Dublin 9",
+        "Dublin 10", "Dublin 11", "Dublin 12", "Dublin 13",
+        "Dublin 14", "Dublin 15", "Dublin 16", "Dublin 17",
+        "Dublin 18", "dublín", "dublino"
+    ],
+    "Ballsbridge": [
+        "Ballsbridge"
+    ],
+    "Ranelagh": [
+        "Ranelagh"
+    ],
+    "Rathmines": [
+        "Rathmines", "Rathmines Dublin"
+    ],
+    "Sandymount": [
+        "Sandymount"
+    ],
+    "Donnybrook": [
+        "Donnybrook"
+    ],
+    "Cabra": [
+        "Cabra"
+    ],
+    "Glasnevin": [
+        "Glasnevin", "Glasnevin North"
+    ],
+    "Clontarf": [
+        "Clontarf"
+    ],
+    "Ringsend": [
+        "Ringsend"
+    ],
+    "North Strand": [
+        "North strand"
+    ],
+    "Rathgar": [
+        "Rathgar"
+    ],
+    "Drumcondra": [
+        "Drumcondra",
+        'Dromcondra'
+    ],
+    "Ballyfermot": [
+        "Ballyfermot"
+    ],
+    "City Center Dublin": [
+        'City center Dublin'
+    ],
+    'Killester': [
+        'Killester, County Dublin, IE',
+        'Killester'
+    ],
+    'Phibsborough': [
+        'Phibsborough', 'Phibsboro'
+    ],
+    'Blackrock': [
+        'Blackrock', 'Blackrock, County Dublin, IE'
+    ],
+    'Howth': ['Howth'],
+    'Malahide': ['Malahide'],
+    'Swords': ['Swords', 'swords'],
+    'Dalkey': ['Dalkey'],
+    'Lucan': ['Lucan', 'Lucan, County Dublin, IE'],
+    'Tallaght': ['Tallaght'],
+   'Cabinteely': ['Cabinteely'],
+   'Clondalkin': ['Clondalkin'],
+   'Baldoyle': ['Baldoyle', 'Baldoyle, Dublin 13'],
+   'Kilbarrick': ['Kilbarrick'],
+   'Skerries': ['Skerries'],
+   'Sutton': ['Sutton'],
+   'Portmarnock': ['Portmarnock'],
+   'Inchicore': ['Inchicore', 'Inchicore , County Dublin, IE'],
+   'Rialto': ['Rialto', 'Rialto, Dublin'],
+   'Stepaside': ['Stepaside', 'Stepaisde'],
+   'Loughlinstown': ['Loughlinstown'],
+   'Churchtown': ['Churchtown'],
+   'Merrion': ['Merrion'],
+   'Monkstown': ['Monkstown'],
+   'Glasthule': ['Glasthule'],
+   'Kilmainham': ['Kilmainham'],
+   'Marino': ['Marino'],
+   'Terenure': ['Terenure'],
+   'Drimnagh': ['Drimnagh'],
+   'Christchurch': ['Christchurch', 'Christchuch'],
+   'Firhouse': ['Firhouse'],
+   'Shankill': ['Shankill'],
+   'Sandyford': ['Sandyford', 'Sadnymount'],
+}
+
+
+
+
+----------------------------------------------------------------------------------------------------------------------------
+Netherlands:
+{
+    "Amsterdam": [
+        "amsterdam-zuidoost", "de pijp", "amsterdam (zunderdorp)", "amsterdam zuid-oost",
+        "geuzenveld/slotermeer", "amsterda", "watergraafsmeer", "diemen", "amsterdam zuidoost",
+        "amstelveen", "jordaan", "ámsterdam", "am", "badhoevedorp", "centrem", "buitenveldert",
+        "amsterdam, noord-holland, nl", "north holland", "amsterdam west", "halfweg",
+        "amsterdam", "zeeburg", "java- eiland", "jordaan, amsterdam", "nederland", "амстердам",
+        "1054 amsterdam", "oud ade", "duivendrecht", "amsterdão", "lijnden", "haarlem"
+    ]
+}
+
+
+
+----------------------------------------------------------------------------------------------------------------------------
+Switzerland:
+{
+    "Geneva": [
+        "Genève", "Geneva", "Ginebra", "Genf", "Geneve", 
+        "Geneva-Plan-les-Ouates", "Genève Champel", "Rive, Genève"
+    ],
+    "Lancy": [
+        "Lancy", "Grand-Lancy", "Petit-Lancy", "Grand Saconnex", "Le Grand-Saconnex"
+    ],
+    "Thônex": [
+        "Thônex", "thonex", "Geneva,Thônex"
+    ],
+    "Veyrier": [
+        "Veyrier", "Vésenaz"
+    ],
+    "Chêne": [
+        "Chêne-Bougeries", "Chêne-Bourg", "Châtelaine", "Chatelaine"
+    ],
+    "Vernier": [
+        "Vernier", "vernier"
+    ],
+    "Corsier": [
+        "Corsier", "Collex-Bossy"
+    ],
+    "Pregny": [
+        "Pregny-Chambésy", "Chambésy"
+    ],
+    "Bellevue": [
+        "Bellevue"
+    ],
+    "Versoix": [
+        "Versoix"
+    ],
+    "Bernex": [
+        "Bernex"
+    ],
+    "Meyrin": [
+        "Meyrin"
+    ],
+    "Aire": [
+        "Aire-la-Ville", "Aire", "Aïre"
+    ],
+    "Dardagny": [
+        "Dardagny"
+    ],
+    "Jussy": [
+        "Jussy"
+    ],
+    "Gy": [
+        "Gy"
+    ],
+    "Conches": [
+        "Conches"
+    ],
+    "Cologny": [
+        "Cologny"
+    ],
+    "Collonge": [
+        "Collonge-Bellerive"
+    ],
+    "Chancy": [
+        "Chancy"
+    ],
+    "Plan-les-Ouates": [
+        "Plan-les-Ouates"
+    ],
+    "Puplinge": [
+        "Puplinge"
+    ],
+    "La Croix-de-Rozon": [
+        "La Croix-de-Rozon", "crx de rozon", "LA CROIX-DE-ROZON"
+    ]
+}
